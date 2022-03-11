@@ -1,3 +1,2 @@
-Amigo você é um amigo
-O versionamento irá ocorrer
-O versionamento continuará ocorrendo
+Rrimeiro commit feito
+Sei la qualquer coisa
